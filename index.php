@@ -5,9 +5,7 @@
 </head>
 <body>
 <?php
-$arr = array(1,2,3,4,5);
-
-echo $arr[2];
+echo "<H1>Vanilla page</H1>";
 ?>
 </body>
 </html>
