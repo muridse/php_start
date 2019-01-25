@@ -60,6 +60,11 @@ $names = array(
 foreach ($names as $name) {
 	echo "$name<br>";
 }
+//Функции
+function summ($a,$b){
+	return $a+$b;
+}
+echo summ(2,4); 
 ?>
 </body>
 </html>
